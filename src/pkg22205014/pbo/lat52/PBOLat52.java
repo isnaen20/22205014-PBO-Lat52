@@ -7,6 +7,10 @@ package pkg22205014.pbo.lat52;
 /**
  *
  * @author isnaen
+ *Nama : Isnen Soleh Ibrohim
+ *NIM : 22205014
+ *Prodi : Teknik Informatika
+ *Semester : 3
  */
 public class PBOLat52 {
 
